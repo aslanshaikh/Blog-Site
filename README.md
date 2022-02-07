@@ -1,2 +1,3 @@
 # Blog-Site
-this is a basic blog site made using express JS
+this is a basic blog site made using express JS, Nodejs
+
